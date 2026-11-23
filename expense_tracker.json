@@ -1,0 +1,63 @@
+{
+    "Prince Ofuru": [
+        {
+            "amount": 500,
+            "category": "Food",
+            "description": "Breakfast"
+        },
+        {
+            "amount": 300,
+            "category": "Health",
+            "description": "Hospital bills"
+        }
+    ],
+    "Justice Bishop": [
+        {
+            "amount": 150,
+            "category": "Food",
+            "description": "Dinner"
+        },
+        {
+            "amount": 650,
+            "category": "Stipend",
+            "description": "September allowance"
+        },
+        {
+            "amount": 210,
+            "category": "Accommodation",
+            "description": "House rent for august"
+        }
+    ],
+    "Damilola Olorunfemi": [],
+    "John Afolabi": [],
+    "Djh Sssfg": [],
+    "null": [
+        {
+            "amount": 345,
+            "category": "Wefg",
+            "description": "Df"
+        },
+        {
+            "amount": 3456,
+            "category": "Dfg",
+            "description": "Sdfg"
+        }
+    ],
+    "null": [
+        {
+            "amount": 345,
+            "category": "Wefg",
+            "description": "Df"
+        },
+        {
+            "amount": 3456,
+            "category": "Dfg",
+            "description": "Sdfg"
+        },
+        {
+            "amount": 54,
+            "category": "Dfg",
+            "description": "Dc"
+        }
+    ]
+}
